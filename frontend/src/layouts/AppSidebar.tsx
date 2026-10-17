@@ -382,7 +382,7 @@ export default function AppSidebar() {
       >
         <div className="sider-brand">
           <div className="brand-block">
-            <span className="brand-text">{railCollapsed ? '3X' : '3X-UI'}</span>
+            <span className="brand-text">{railCollapsed ? 'DU' : 'DIALUP'}</span>
           </div>
           {!railCollapsed && (
             <div className="brand-actions">
